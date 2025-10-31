@@ -1,4 +1,4 @@
-# Meu repositório de autenticaçẽos DIO.
+# Meu repositório de autenticações DIO.
 Repositório criado para o curso da DIO de principios do Git e Github.
 
 Repositório de autenticações .
